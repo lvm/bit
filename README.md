@@ -1,2 +1,3 @@
 # bit
-bit.cyberdeck.pw
+
+ http://bit.cyberdeck.pw
