@@ -1,0 +1,14 @@
+{% include header.html %}
+
+<article class="post">
+    <h2 class="post-header">{{ page.title }}</h2>
+    <p class="post-meta">{{ page.date | date: site.date_format }}</p>
+    {% if page.tags %}
+    <p class="post-meta">{{ page.tags | array_to_sentence_string }}</p>
+    {% endif %}
+
+    {{ content }}
+</article>
+
+
+{% include footer.html %}

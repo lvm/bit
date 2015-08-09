@@ -1,0 +1,15 @@
+---
+slug: pep308  
+title: pep308  
+tags:  
+- gggg  
+- humor  
+- o/  
+- pasatiempo  
+- python  
+- vida  
+---
+  
+es una maravilla que escriba esto _if_ podria escribir esto _else_ no escribiria nada.  
+  
+[referencia](http://www.python.org/dev/peps/pep-0308/).  

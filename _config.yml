@@ -1,0 +1,19 @@
+title: bit.cpw
+baseurl: "/"
+url: "http://bit.cyberdeck.pw"
+
+date_format: "%Y-%m-%d"
+permalink:       /:title.html
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+google_analytics:
+
+# Build settings
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']

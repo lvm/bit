@@ -1,0 +1,22 @@
+---
+slug: 'poem-js'  
+title: poem.js  
+tags:  
+- internerds  
+- o/  
+- gggg  
+- vida  
+- programadores  
+- js  
+- javascript  
+- poemas  
+---
+
+mi version en js de [Code Poetry](http://en.wikipedia.org/wiki/Code_poetry).
+
+````
+if public  
+try static  
+private  
+instanceof volatile  
+````

@@ -1,0 +1,10 @@
+---
+slug: me-debconf8  
+title: me @ debconf8  
+tags:  
+- debconf  
+- debian-es  
+---
+  
+un perfecto resumen de lo que es debconf seria:    
+un monton de personas que conocia por hackergotchi hablando en varios idiomas simultaneamente.  
