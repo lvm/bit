@@ -1,0 +1,10 @@
+---
+slug: 'shitload'  
+title: a shitload  
+tags:  
+- o/  
+- gggg  
+- vida  
+---
+
+Al terminar de escribir esta oracion habre escrito mucho.
