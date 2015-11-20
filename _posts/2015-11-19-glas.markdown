@@ -11,8 +11,10 @@ tags:
 
 ![](http://i.imgur.com/JqoXoWd.png)
 
-Luego de haber publicado [mi primer juego](http://23chambers.itch.io/a-murder-of-chairs), publique el 6 de Nov otro mas: [glas](http://23chambers.itch.io/glas).
+Luego de haber publicado [mi primer juego](http://23chambers.itch.io/a-murder-of-chairs), este 6-11 publique otro mas: [glas](http://23chambers.itch.io/glas).  
 A diferencia del anterior, en este proyecto trabaje bastante mas: Tiene 5 niveles + 1 intro + 1 outro; tiene menu y preferencias personalizables que se guardan entre partidas; finalmente tambien tiene soundtrack: [Dislocated Mountain](http://chaitrarecords.bandcamp.com/album/dislocated-mountain) por un duo llamado [Dislocations](http://chaitrarecords.bandcamp.com/).
 Respecto al jueguito, cito al README:  
+
+    Have you ever wondered what it feels like to wander in the sky?
 
 Se puede descargar de [aca](http://23chambers.itch.io/glas) para GNU/Linux (32b y 64b), Windows (32b y 64b), y OS X (Universal).
