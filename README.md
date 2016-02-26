@@ -1,3 +1,3 @@
 # bit
 
- http://bit.cyberdeck.pw
+ http://bit.brackets.space
