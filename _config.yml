@@ -1,6 +1,6 @@
 title: bitacora
 baseurl: ""
-url: "http://bit.cyberdeck.pw"
+url: "http://bit.brackets.space"
 
 date_format: "%Y-%m-%d"
 permalink:       /:title.html
