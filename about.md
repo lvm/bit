@@ -5,6 +5,6 @@ permalink: /acerca-de.html
 ---
 
 Hola, soy Mauro y llevo mas de 10 a&ntilde;os *ranteando* en este blog.  
-En caso de que sean curiosos, pueden saber mas sobre mi [aqui](http://cyberdeck.pw).  
+En caso de que sean curiosos, pueden saber mas sobre mi [aqui](http://lvm.github.io).  
 
 El tema de esta iteracion del blog esta basado en [https://github.com/syaning/vida](https://github.com/syaning/vida).
