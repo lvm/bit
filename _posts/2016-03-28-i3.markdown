@@ -1,0 +1,14 @@
+---
+slug: 'i3 wm'  
+title: i3-wm
+tags:  
+- interfaces  
+- wm  
+- vida  
+- o/    
+---
+
+Despues de anios de utilizar `[XFCE](http://xfce.org/)` como mi `DE`, pense en cambiar por un `tiling WM`. Primero retome a `[spectrwm](https://github.com/conformal/spectrwm)` ya que es liviano y el archivo de configuracion es bastante sencillo, a diferencia de `[awesome wm](https://awesome.naquadah.org/)` que con cada version cambia el archivo de configuracion (o al menos eso solia suceder), pero no lograba sentirme *comodo* asi que antes de volver a `[XFCE](http://xfce.org/)` decidi pedir recomendaciones y todos (?) me dijeron lo mismo: `[i3wm](https://i3wm.org/)`.  
+Primero no entendia bien el razonamiento detras de muchas cosas de este `wm` (que no exista `alt-tab`, el orden de los `workspaces`, etc) hasta que finalmente me cayo la ficha y todo tuvo sentido. Habiendo pasado aproximadamente un mes utilizando este `wm`, creo que es el reemplazo definitivo.
+
+Mi configuracion actual esta disponible en un `gist` de `github`: [~/.i3/config + ~/.i3status.conf](https://gist.github.com/lvm/a9c77c57854c50182dbe)
