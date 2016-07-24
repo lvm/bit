@@ -15,13 +15,9 @@ tags:
 
 #Creando un sitio de "Arte Electrónico argentino"
 
-##Hace unas semanas vi que Cristian Reynaga había publicado un Dataset de Arte Electrónico argentino que utilizo para un documental que…
-
-##Creando un sitio de "Arte Electrónico argentino"
-
 Hace unas semanas vi que [Cristian Reynaga](http://cristianreynaga.com/) había publicado un [Dataset de Arte Electrónico argentino](https://github.com/cristianReynaga/Dataset-Arte-Electronico-Argentino) que utilizo para un [documental](https://vimeo.com/76021448) que estaba realizando, por lo que me pareció una buena idea armar una aplicación que permitiese consultar estos datos de una manera cómoda.
 
-###Interfaces para desarrolladores
+##Interfaces para desarrolladores
 
 Para llevar a cabo esta tarea decidí utilizar [Golang,](https://golang.org/) un lenguaje desarrollado por Robert Griesemer, Rob Pike y Ken Thompson. Las razón? simplemente hacia tiempo un amigo hablo maravillas del lenguaje y quise darle una oportunidad haciendo un proyecto *serio*. Por supuesto que no lo escribí de cero, sino que utilice [Gin-gonic,](https://gin-gonic.github.io/gin/) un framework web hecho en este lenguaje.
 Del sitio del framework:
@@ -35,7 +31,7 @@ La aceptación de la gente también fue bastante positiva, por lo que hasta ahor
 
 Por supuesto, el código de la API está disponible en [Github](https://github.com/lvm/api-dataset-arte-electronico-argentino).
 
-###Interfaces para *humanos*
+##Interfaces para *humanos*
 
 A pesar de que la API estaba funcionando bien y había tenido buena aceptación, aquellos que no están familiarizados con consultar datos haciendo *requests *y *parseando* estos resultados, realmente no iban a poder hacer uso de esta información por lo que me puse a hacer la pata restante: Un front-end para directamente visualizar los datos.
 
@@ -46,7 +42,7 @@ Nuevamente, gracias a la excelente documentación de [Ember.js,](http://emberjs.
 
 En este caso el código también está disponible en [Github](https://github.com/lvm/site-dataset-arte-electronico-argentino).
 
-###Automatizando tareas
+##Automatizando tareas
 
 *o ¿Por que realizar manualmente tareas que se pueden hacer solas?*
 
@@ -61,11 +57,11 @@ Teniendo todo listo, simplemente asocié mi cuenta de Github en [Docker Hub](htt
 Por el otro lado, si bien [Ember.js](http://emberjs.com/) es super genial, necesitamos compilar la aplicación para poder *servirla* como cualquier sitio *estático *y que mejor que [Travis-CI](https://travis-ci.org/) para llevar a cabo esta tarea?
 En este caso, fue necesario crear un archivo [*.travis.yml](https://github.com/lvm/site-dataset-arte-electronico-argentino/blob/master/.travis.yml) *junto con un [script](https://github.com/lvm/site-dataset-arte-electronico-argentino/blob/master/deploy-to-ghpages.sh) que ejecuten las acciones necesarias para *deployar* nuestra aplicación y publicar automáticamente en Github Pages al crear un nuevo tag (de otro modo, con cada *push* se generaria un nuevo build).
 
-###En resumen
+##En resumen
 
 En cuestión de una semana pude desarrollar un sitio desde *atrás* hacia *adelante* con herramientas súper prácticas con la idea de poder facilitar el acceso a la información y que sirva de referencia para futuros proyectos :-)
 
-###Hipervinculos relacionados
+##Hipervinculos relacionados
 
 * [Sitio de Arte Electrónico argentino](http://arte-electronico.cyberpunk.com.ar/)
 
