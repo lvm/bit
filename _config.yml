@@ -1,6 +1,6 @@
 title: bitacora
 baseurl: ""
-url: "http://bit.brackets.space"
+url: "http://lvm.github.io/blog"
 
 date_format: "%Y-%m-%d"
 permalink:       /:title.html
@@ -14,6 +14,6 @@ defaults:
 google_analytics:
 
 # Build settings
-markdown:     redcarpet
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
+# markdown:     redcarpet
+# redcarpet:
+#   extensions: ['smart', 'tables', 'with_toc_data']

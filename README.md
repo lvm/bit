@@ -1,3 +1,3 @@
 # bit
 
- http://bit.brackets.space
+> http://lvm.github.io/blog
