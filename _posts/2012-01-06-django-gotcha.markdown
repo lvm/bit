@@ -34,7 +34,7 @@ Ejemplo:
   
   
   
-      
+```      
     #template.html  
     {# esto no funciona porque "edad" es un str #}  
     {# y no tiene sentido comprar un str con un int (en este caso: 18) #}  
@@ -50,13 +50,13 @@ Ejemplo:
     {# esto si funciona porque a (str)"edad" lo convertimos a int al sumarle cero :> #}  
     <p>Hola {{ nombre }}!</p>  
     <p>  
-    {% if edad|add:"0" > 18 %}  
+    {% if edad | add:"0" > 18 %}  
      <a href="http://xvideos.com">Ingresar</a>  
     {% else %}  
      <a href="http://disney.com">Ingresar</a>  
     {% endif %}  
     </p>  
-      
+```   
   
   
   

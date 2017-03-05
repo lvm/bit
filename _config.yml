@@ -1,19 +1,32 @@
-title: bitacora
-baseurl: ""
-url: "http://lvm.github.io/blog"
+###########
+# site.title, site.url, site.author.name
 
-date_format: "%Y-%m-%d"
-permalink:       /:title.html
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
+title:   bitacora.lavaramano.md
+author:
+  name:  bitacora.lavaramano.md
 
-google_analytics:
+## note: 
+#  use site.path in your templates to make it work for both protocols e.g. http and https
+#  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
+path: /blog  
+url:  "http://lvm.github.io/blog"
 
-# Build settings
-markdown:     kramdown
-# redcarpet:
-#   extensions: ['smart', 'tables', 'with_toc_data']
+
+########
+# more settings
+
+markdown: kramdown
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+permalink: /:title.html
+
+exclude:
+- README.md
+
+
+safe: true
+lsi: false
+
