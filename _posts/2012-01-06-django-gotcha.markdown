@@ -40,21 +40,21 @@ Ejemplo:
     {# y no tiene sentido comprar un str con un int (en este caso: 18) #}  
     <p>Hola {{ nombre }}!</p>  
     <p>  
-    {% if edad > 18 %}  
+    { % if edad > 18 % }  
      <a href="http://xvideos.com">Ingresar</a>  
-    {% else %}  
+    { % else % }  
      <a href="http://disney.com">Ingresar</a>  
-    {% endif %}  
+    { % endif % }  
     </p>  
     <hr/>  
     {# esto si funciona porque a (str)"edad" lo convertimos a int al sumarle cero :> #}  
     <p>Hola {{ nombre }}!</p>  
     <p>  
-    {% if edad | add:"0" > 18 %}  
+    { % if edad | add:"0" > 18 % }  
      <a href="http://xvideos.com">Ingresar</a>  
-    {% else %}  
+    { % else % }  
      <a href="http://disney.com">Ingresar</a>  
-    {% endif %}  
+    { % endif % }  
     </p>  
 ```   
   
