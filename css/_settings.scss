@@ -1,10 +1,11 @@
 ///////////////////////////////////////
 // css theme variables / settings
 
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
 
-$font-family:       "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family:       "Inconsolata", "Courier New", monospace;
+$code-font-family:  "Inconsolata", "Courier New", monospace;
 
-$code-font-family:  Menlo, Monaco, "Courier New", monospace;
 
 
 $masthead-color:         #505050;

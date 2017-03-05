@@ -13,11 +13,11 @@ tags:
 ---
 
 
-#Creando un sitio de "Arte Electrónico argentino"
+# Creando un sitio de "Arte Electrónico argentino"
 
 Hace unas semanas vi que [Cristian Reynaga](http://cristianreynaga.com/) había publicado un [Dataset de Arte Electrónico argentino](https://github.com/cristianReynaga/Dataset-Arte-Electronico-Argentino) que utilizo para un [documental](https://vimeo.com/76021448) que estaba realizando, por lo que me pareció una buena idea armar una aplicación que permitiese consultar estos datos de una manera cómoda.
 
-##Interfaces para desarrolladores
+## Interfaces para desarrolladores
 
 Para llevar a cabo esta tarea decidí utilizar [Golang,](https://golang.org/) un lenguaje desarrollado por Robert Griesemer, Rob Pike y Ken Thompson. Las razón? simplemente hacia tiempo un amigo hablo maravillas del lenguaje y quise darle una oportunidad haciendo un proyecto *serio*. Por supuesto que no lo escribí de cero, sino que utilice [Gin-gonic,](https://gin-gonic.github.io/gin/) un framework web hecho en este lenguaje.
 Del sitio del framework:
