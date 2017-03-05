@@ -108,7 +108,7 @@ wlan0     IEEE 802.11g  ESSID:off/any
 si todo esta bien y tuvimos algo parecido a eso    
   
   
-> # echo ndiswrapper >> /etc/modules  
+> # echo "ndiswrapper" | tee /etc/modules  
   
    
 para evitar tener que escribirlo cada vez que reiniciamos.    
