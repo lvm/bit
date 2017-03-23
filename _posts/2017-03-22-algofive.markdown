@@ -1,0 +1,12 @@
+---
+slug: algofive  
+title: Algofive  
+tags:
+- livecoding
+- algorave
+- algofive  
+---
+
+El pasado 17 de Marzo de 2017 se festejaron los 5 años de [Algorave](https://algorave.com/) y participamos con esta performance:  
+
+[![wareware - Algofive](https://img.youtube.com/vi/ZZ0z9M18eug/0.jpg)](https://www.youtube.com/watch?v=ZZ0z9M18eug)
