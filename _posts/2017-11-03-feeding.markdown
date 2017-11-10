@@ -6,6 +6,6 @@ tags:
 ---
 
 ultimamente, a veces, me encuentro escribiendo algo en algun servicio 3rd party (gmail, twitter, etc) y luego borrando el contenido de mi mensaje.
-ese autoguardado, donde se guarda? [0]
+ese autoguardado, quien lo lee? [0]
 
-[0] voy a asumir que existe aunque pueda probar que no.
+[0] voy a asumir que existe aunque pueda probar que no (porque un grado de paranoia a veces suele ser practico)
