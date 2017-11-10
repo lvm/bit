@@ -1,6 +1,6 @@
 ---
-slug: a quien le escribimos?  
-title: a-quien-le-escribimos
+slug: a-quien-le-escribimos
+title: a quien le escribimos?  
 tags:
 - \o/
 ---
