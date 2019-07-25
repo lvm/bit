@@ -10,7 +10,7 @@ author:
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
 # path: /blog  
 # url:  "http://lvm.github.io/blog"
-path: /
+path: 
 url: "https://blog.cyberpunk.net.ar/"
 
 
@@ -23,7 +23,7 @@ sass:
   sass_dir: css
   style:    expanded
 
-permalink: https://blog.cyberpunk.net.ar/:title.html
+permalink: /:title.html
 
 exclude:
 - README.md
