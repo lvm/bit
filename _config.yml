@@ -23,7 +23,7 @@ sass:
   sass_dir: css
   style:    expanded
 
-permalink: /:title.html
+permalink: https://blog.cyberpunk.net.ar/:title.html
 
 exclude:
 - README.md
